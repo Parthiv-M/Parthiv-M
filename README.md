@@ -9,7 +9,7 @@ I am Parthiv and I am good at writing everything but introductions. I like learn
 
 🔭 I love thinking and conceptualising ideas. Reach out to me if you have any.
 
-🌱 Currently learning [Kubernetes](https://kubernetes.io/).
+🌱 Currently learning a bit about [Google Cloud Platform](https://cloud.google.com/).
 
 💬 Ask me about NextJS. Eager to talk and learn more about it.
 
@@ -35,6 +35,9 @@ I am Parthiv and I am good at writing everything but introductions. I like learn
 - Postman
 - MongoDB
 - NextJS
+### App Development
+- Flutter and Dart
+- Firebase
 ### Devops
 - AWS
 - Heroku
