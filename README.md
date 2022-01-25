@@ -9,7 +9,7 @@ I am Parthiv and I am good at writing everything but introductions. I like learn
 
 🔭 I love thinking and conceptualising ideas. Reach out to me if you have any.
 
-🌱 Currently learning a bit about [Google Cloud Platform](https://cloud.google.com/).
+🌱 Currently exploring options to devops-ify anything and everything.
 
 💬 Ask me about NextJS. Eager to talk and learn more about it.
 
