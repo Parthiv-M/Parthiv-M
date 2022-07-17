@@ -7,15 +7,13 @@ I am Parthiv and I am good at writing everything but introductions. I like learn
 
 # What I Do 
 
-🔭 I love thinking and conceptualising ideas. Reach out to me if you have any.
+🔭 I love making things work. Reach out to me if you have any ideas that can shake up the world for I'm definitely in for it!
 
-🌱 Currently exploring options to devops-ify anything and everything.
+🌱 Honestly, I find a lot of things fascinating, with Dev being a constant obsession.
 
-💬 Ask me about NextJS. Eager to talk and learn more about it.
+👨‍💻 If you're interested in what I do, you can check it out [here](https://parthivmenon.com).
 
-👨‍💻 Visit me [here](https://parthivmenon.com).
-
-📝 I write (non-tech) articles [here](https://themitpost.com/author/parthiv/)
+📝 I also write (non-tech) articles [here](https://themitpost.com/author/parthiv/)
 
 ⚡ I love puns, especially ones that are pun-ishingly bad, yet make me laugh.  
 
@@ -47,16 +45,14 @@ I am Parthiv and I am good at writing everything but introductions. I like learn
 - Figma
 
 ## GitHub Stats
-I also like doing a project here and a side-project there. So, even though my GitHub stats do not impress _a lot_, they aren't that bad either.
+I indulge myself in projects and side-projects, providing a much needed impetus to my GitHub stats.
  
 ![Parthiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthiv-M&show_icons=true&theme=tokyonight)
-
-I am very much interested in anything linked to the web—from design to development, I dabble in it all. And consequently, JavaScript is something I find interesting to explore.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-M&layout=compact)](https://github.com/Parthiv-M/github-readme-stats)
 
 # Reach out
-If you have anything to say, or anything to talk about, I'll be happy to help and, of course, talk. Though not very active on social media, I do try to keep up with the flow sometimes.  
+If you have anything to say, or anything to talk about, I'll be happy to help and, of course, talk. Though not very active on social media, I try to keep up with the flow sometimes.  
 
 <p align="left">
 <a href="https://linkedin.com/in/parthivmenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiv" height="30" width="40" /></a>
