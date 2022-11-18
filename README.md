@@ -7,9 +7,9 @@ I am Parthiv and I am good at writing everything but introductions. I like learn
 
 # What I Do 
 
-🔭 I love making things work. Reach out to me if you have any ideas that can shake up the world for I'm definitely in for it!
+🔭 I love making things work. Reach out to me if you have any ideas that can shake up the world—I'm definitely in for it!
 
-🌱 Honestly, I find a lot of things fascinating, with Dev being a constant obsession.
+🌱 Honestly, I find a lot of things fascinating, with development being a constant obsession.
 
 👨‍💻 If you're interested in what I do, you can check it out [here](https://parthivmenon.com).
 
