@@ -31,10 +31,10 @@ My name is Parthiv Menon. I was bitten by the development bug back in college. A
 ...love to [sketch and dabble with paint](https://parthivmenon.com/artwork/) whenever I can
 
 ## What do the numbers say?
-<div>
-	<img style="height: auto; width: 46.5%;" src="https://github-readme-stats.vercel.app/api?username=parthiv-m&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-	<img style="height: auto; width: 49.5%;" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiv-m&theme=vue-dark&hide_border=true" />
-</div>
+|||
+|--|--|
+|<img style="height: auto; " src="https://github-readme-stats.vercel.app/api?username=parthiv-m&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />|<img style="height: auto; " src="https://github-readme-streak-stats.herokuapp.com/?user=parthiv-m&theme=vue-dark&hide_border=true" />|
+|||
 
 ## And I love playing around with words
 I went to an aquarium once and saw fish fighting for food. <br/>
