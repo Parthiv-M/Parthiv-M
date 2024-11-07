@@ -27,7 +27,7 @@ My name is Parthiv Menon. I was bitten by the development bug back in college. A
 
 ### I also...
 ...[wrote for The MIT Post](https://themitpost.com/author/parthiv/) from 2019 to 2022 <br/>
-...write [poems, stories, and prose](https://parthivmenon.com/storyboard/) in my free time <br/>
+...write [poems, stories, and prose](https://parthivmenon.com/writing/) in my free time <br/>
 ...love to [sketch and dabble with paint](https://parthivmenon.com/artwork/) whenever I can
 
 ## What do the numbers say?
